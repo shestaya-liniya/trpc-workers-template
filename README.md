@@ -1,4 +1,4 @@
-# server-trpc
+# trpc-workers-starter
 
 To install dependencies:
 
